@@ -1,0 +1,3 @@
+#!/bin/bash
+#command to start xampp gui interface
+su -c "/opt/lampp/manager-linux-x64.run &"
